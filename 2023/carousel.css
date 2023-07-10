@@ -293,6 +293,11 @@ p.second-slide {
     padding-bottom: 10px;
 }
 
+.row_featurette{
+    font-family: FZSong;
+    font-size: 19px;
+}
+
 .outline-text {
     font-size: 18px;
 }
